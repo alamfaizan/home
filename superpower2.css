@@ -1,0 +1,41 @@
+body
+{
+	background: white;
+	margin: 5%;
+	border: 20px double black;
+}
+img
+{
+	border: 20px double black;
+	height: 400px;
+	width: 400px;
+	padding: 20px;
+}
+h1
+{
+	color: red;
+	text-align: center;
+	font-family: serif;	
+}
+h2
+{
+	color: blue;
+	text-align: left;
+	font-family: serif;
+}
+h3
+{
+	color: blue;
+	text-align: left;
+	font-family: serif;
+}
+p
+{
+	color: black;
+	font-family: sans-serif;
+}/*p*/
+ul
+{ 
+	color: blue;
+	font-family: serif;
+}
